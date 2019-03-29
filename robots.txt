@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://voengeexo.gethelplex.org/sitemap.xml
